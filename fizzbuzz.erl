@@ -16,4 +16,3 @@ fizz(N, MAX) ->
 	end.
 
 fizz(MAX) -> fizz(1, MAX).
-
